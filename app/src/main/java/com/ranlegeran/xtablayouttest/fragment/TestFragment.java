@@ -14,9 +14,9 @@ import com.ranlegeran.xtablayouttest.R;
 
 /**
  * 创建日期：2019/9/20 2:29
- * 作　者: RANLEGERAN 刘军龙
- * 类　名:
- * 简　述:
+ * 作　者: RANLEGERAN
+ * 类　名:TestFragment
+ * 简　述:Fragment通用
  */
 public class TestFragment extends Fragment {
     private static final String KEY = "title";

@@ -6,9 +6,9 @@ import org.xutils.x;
 
 /**
  * 创建日期：2019/9/20 2:22
- * 作　者: RANLEGERAN 刘军龙
- * 类　名:
- * 简　述:
+ * 作　者: RANLEGERAN
+ * 类　名:MyApplication
+ * 简　述:配置初始化等相关操作
  */
 public class MyApplication extends Application {
 
